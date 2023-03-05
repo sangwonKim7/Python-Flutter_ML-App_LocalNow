@@ -1,15 +1,16 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:local_now_app/SidoPred/pred80_result.dart';
-import 'package:local_now_app/models/message_pred80.dart';
+import 'package:local_now_app/sido_pred/pred80_result.dart';
 import 'package:syncfusion_flutter_sliders/sliders.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import '../models/message_last_values.dart';
-import '../widgets/custom_app_bar.dart';
-import '../widgets/custom_loader.dart';
-import '../widgets/custom_style.dart';
+
+import '../model/message_last_values.dart';
+import '../model/message_pred80.dart';
+import '../widget/custom_app_bar.dart';
+import '../widget/custom_loader.dart';
+import '../widget/custom_style.dart';
 
 class Pred80 extends StatefulWidget {
   const Pred80({super.key});

@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:local_now_app/game_test/quiz1.dart';
-import 'package:local_now_app/widgets/custom_app_bar.dart';
-import 'package:local_now_app/widgets/custom_style.dart';
+
+import '../widget/custom_app_bar.dart';
+import '../widget/custom_style.dart';
 
 class Quiz0 extends StatefulWidget {
   const Quiz0({super.key});

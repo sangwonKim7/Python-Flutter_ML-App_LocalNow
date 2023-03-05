@@ -1,16 +1,13 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:local_now_app/game_test/easygame.dart';
 import 'package:local_now_app/game_test/list.dart';
-import 'package:local_now_app/home.dart';
-import 'package:local_now_app/widgets/custom_app_bar.dart';
 import 'package:local_now_app/custom_bottom_nav_bar.dart';
-import 'package:local_now_app/widgets/custom_style.dart';
 
 import '../kakao_link/kakaoapi.dart';
+import '../widget/custom_app_bar.dart';
+import '../widget/custom_style.dart';
 import 'c_Alert.dart';
 import 'c_Alertok.dart';
-import 'game_page.dart';
 
 class QuizEnd extends StatefulWidget {
   final int q3point;

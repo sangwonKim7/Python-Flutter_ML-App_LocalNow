@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:local_now_app/models/message_answers.dart';
 import 'package:local_now_app/survey/survey_companies_page.dart';
 import 'package:lottie/lottie.dart';
 import 'package:syncfusion_flutter_sliders/sliders.dart';
 
-import '../widgets/custom_app_bar.dart';
-import '../widgets/custom_style.dart';
+import '../model/message_answers.dart';
+import '../widget/custom_app_bar.dart';
+import '../widget/custom_style.dart';
 
 class EstudentPage extends StatefulWidget {
   const EstudentPage({super.key});

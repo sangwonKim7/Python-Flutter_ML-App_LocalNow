@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:local_now_app/survey/survey_baby_page.dart';
-import 'package:local_now_app/widgets/custom_style.dart';
 import 'package:lottie/lottie.dart';
 
-import '../widgets/custom_app_bar.dart';
+import '../widget/custom_app_bar.dart';
+import '../widget/custom_style.dart';
 
 class FirstPage extends StatefulWidget {
   const FirstPage({super.key});

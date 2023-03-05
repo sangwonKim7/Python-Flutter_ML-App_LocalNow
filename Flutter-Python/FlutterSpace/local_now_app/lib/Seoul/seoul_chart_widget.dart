@@ -4,7 +4,7 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-import '../widgets/custom_loader.dart';
+import '../widget/custom_loader.dart';
 
 //
 // Create on 2023-02-22

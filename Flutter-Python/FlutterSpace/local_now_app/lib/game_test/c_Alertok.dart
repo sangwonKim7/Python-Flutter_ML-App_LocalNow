@@ -1,7 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import '../widgets/custom_style.dart';
+import '../widget/custom_style.dart';
+
 
 class AlertOK {
   Alertokay(BuildContext context) {

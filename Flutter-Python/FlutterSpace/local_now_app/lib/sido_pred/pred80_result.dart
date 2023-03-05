@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:local_now_app/KoreaMap/korea.dart';
+import 'package:local_now_app/widget/gauge.dart';
 import '../custom_bottom_nav_bar.dart';
-import '../models/message_pred80.dart';
-import '../widgets/custom_app_bar.dart';
-import '../widgets/custom_style.dart';
-import '../widgets/gauge.dart';
+import '../korea_map/korea.dart';
+import '../model/message_pred80.dart';
+import '../widget/custom_app_bar.dart';
+import '../widget/custom_style.dart';
 
 class Pred80Result extends StatefulWidget {
   const Pred80Result({super.key});

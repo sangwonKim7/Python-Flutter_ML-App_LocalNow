@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:local_now_app/SidoPred/pred80.dart';
-import 'package:local_now_app/models/message_pred80.dart';
-import 'package:local_now_app/widgets/custom_app_bar.dart';
 
-import '../widgets/custom_app_bar.dart';
-import '../widgets/custom_style.dart';
+import '../model/message_pred80.dart';
+import '../sido_pred/pred80.dart';
+import '../widget/custom_app_bar.dart';
 
 class KoreaMap extends StatefulWidget {
   const KoreaMap({super.key});

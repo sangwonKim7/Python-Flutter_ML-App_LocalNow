@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../KoreaMap/korea.dart';
 import '../game_test/game_page.dart';
+import '../korea_map/korea.dart';
 import 'kakaoapi.dart';
 
 class KaKaos extends StatefulWidget {

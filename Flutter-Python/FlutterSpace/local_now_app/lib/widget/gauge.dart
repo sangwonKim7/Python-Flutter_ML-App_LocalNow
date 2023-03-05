@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:local_now_app/models/message_pred80.dart';
 import 'package:syncfusion_flutter_gauges/gauges.dart';
+
+import '../model/message_pred80.dart';
 
 class Gauge extends StatefulWidget {
   const Gauge({super.key});

@@ -3,14 +3,14 @@ import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
+import 'package:local_now_app/model/message_seoul.dart';
+import 'package:local_now_app/widget/custom_app_bar.dart';
+import 'package:local_now_app/widget/custom_loader.dart';
+import 'package:local_now_app/widget/custom_style.dart';
 import 'package:lottie/lottie.dart';
 
-import '../models/message_seoul.dart';
 import '../seoul/seoul_all_chart.dart';
 import '../seoul/seoul_chart_widget.dart';
-import '../widgets/custom_app_bar.dart';
-import '../widgets/custom_loader.dart';
-import '../widgets/custom_style.dart';
 
 //
 // Create on 2023-02-21

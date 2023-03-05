@@ -1,11 +1,11 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:local_now_app/models/message_answers.dart';
 import 'package:lottie/lottie.dart';
 import 'package:http/http.dart' as http;
 
-import '../widgets/custom_app_bar.dart';
+import '../model/message_answers.dart';
+import '../widget/custom_app_bar.dart';
 
 class ResultPage extends StatefulWidget {
   const ResultPage({super.key});

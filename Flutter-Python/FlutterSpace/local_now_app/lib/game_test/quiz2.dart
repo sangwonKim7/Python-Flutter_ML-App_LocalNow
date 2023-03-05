@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:local_now_app/game_test/quiz_end.dart';
 
-import '../widgets/custom_app_bar.dart';
-import '../widgets/custom_style.dart';
+import '../widget/custom_app_bar.dart';
+import '../widget/custom_style.dart';
 
 class Quiz2 extends StatefulWidget {
   final int q2point;

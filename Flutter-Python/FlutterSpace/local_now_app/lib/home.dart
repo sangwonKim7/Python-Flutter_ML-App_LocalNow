@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:local_now_app/KoreaMap/korea.dart';
 import 'package:local_now_app/seoul/seoul.dart';
 import 'package:local_now_app/survey/first_page.dart';
-import 'package:local_now_app/widgets/custom_app_bar.dart';
-import 'package:local_now_app/widgets/custom_style.dart';
+import 'package:local_now_app/widget/custom_app_bar.dart';
+import 'package:local_now_app/widget/custom_style.dart';
 import 'package:lottie/lottie.dart';
 
-import 'SidoPred/pred80.dart';
+import 'korea_map/korea.dart';
+
 
 // Create on 2023-02-22
 // author: Sangwon Kim

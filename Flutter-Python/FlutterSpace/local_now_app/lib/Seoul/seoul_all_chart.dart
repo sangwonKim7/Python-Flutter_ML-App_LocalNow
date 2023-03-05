@@ -1,9 +1,9 @@
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
-import 'package:local_now_app/widgets/custom_style.dart';
 
-import '../models/message_seoul.dart';
-import '../widgets/custom_app_bar.dart';
+import '../model/message_seoul.dart';
+import '../widget/custom_app_bar.dart';
+import '../widget/custom_style.dart';
 
 //
 // Create on 2023-02-22
